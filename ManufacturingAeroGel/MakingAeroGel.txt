@@ -1,0 +1,72 @@
+Silica Aerogel (TMOS, Base-Catalyzed)
+Editor’s Note: This recipe was contributed by Michael Grogan at the University of Bath, UK. It is designed to make high-quality optically-transparent silica aerogels for optical analysis. This is the same recipe presented in Episode 5 of The Critical Point (How to Make Silica Aerogels: Part 1). Thank you, Michael!
+
+Materials
+    Tetramethoxysilane (tetramethyl orthosilicate), Si(OCH3)4
+    Methanol
+    Deionized water or, better yet, analytical reagent (AR) grade water
+    Ammonium hydroxide, 28-30 wt % in water
+Optional
+    Ethanol
+    Acetone
+
+Warning!
+- Tetramethoxysilane (TMOS) is hazardous to your lungs and eyes. In your lungs its vapors can hydrolyze and form silica. In your eyes it can methylate and denature the collagen in your retina and cause blindness. But never fear! A pair of safety goggles (not glasses) and adequate ventilation, such as a chemical fume hood, will protect you.
+- Methanol also causes blindness so don’t get it in your eyes. Again a pair of safety goggles will protect you. And by all means, methanol is not drinking alcohol (drinking alcohol is ethanol) so don’t get any stupid ideas. It’s a chemical.
+- Concentrated ammonium hydroxide is caustic (a corrosive base), has a pungent odor, and can sting your eyes. Use with adequate ventilation.
+
+Gel Preparation
+- Add 4.86 g (5.40 mL) of concentrated ammonium hydroxide to 1000 mL of water. Store this in a bottle so you can reuse it later. This is the “ammonium hydroxide stock solution”. If you already have stock solution prepared you can skip down to step 2.
+- Mix 10.2 g (10.0 mL) TMOS and 7.92 g (10.0 mL) methanol in a beaker. This is the “alkoxide solution” or “solution A”.
+- Mix 5.0 g (5.0 mL) of ammonium hydroxide stock solution (what you prepared in step 1) with 7.92 g (10.0 mL) methanol in another beaker. This mixture is the “catalyst solution” or “solution B”.
+- Pour the catalyst solution (solution B) into the alkoxide solution (solution A) and stir. This is the “sol”.
+- Pour the sol into molds and allow gel to form. Gel time is approximately 8-15 min.
+
+What Everything Does
+- TMOS is the source of the silica.
+- Water is what hydrolyzes the TMOS so that it can polymerize.
+- Methanol is a co-solvent that is miscible with both TMOS and water to get both into the same phase so they can react.
+- Ammonium hydroxide is a basic (alkaline) catalyst that helps to make the reactions go faster.
+
+TMOS is easier to get to work with than TEOS, used in the recipe Silica Aerogel (TEOS, Base Catalyzed). If you’ve had trouble getting TEOS to work for your science, try TMOS. It doesn’t mess around.
+
+What Doesn’t Work
+- Using denatured alcohol that contains anything other than methanol or isopropanol as a denaturant instead of absolute ethanol. Some hardware store alcohol works, some doesn’t.
+- Using sodium hydroxide (NaOH) instead of ammonium hydroxide in equal molar concentration. NaOH is a strong base so if you use it you’ll need to use a lower molar concentration of it than for ammonium hydroxide.
+
+Variables You Can Play With
+- You can scale the volumes of the chemicals in steps 2 and 3 to make more or less volume of gel.
+- Try adjusting the amount of solvent used to adjust the density of the resulting aerogel.
+- Try adjusting the amount of the catalysts in the stock solution or the amount of stock solution you add. This will change the gel time and possibly the clarity of the gel (more catalyst means faster gel time but possibly lower transparency).
+- You can substitute sodium hydroxide, sodium carbonate, or potassium carbonate for ammonium hydroxide but you will have to experiment with the amount.
+
+Gel Processing Conditions
+- Once the gel has set, place it under methanol and allow the gel to age for at least 24 h.
+- Exchange into methanol, 200-proof ethanol, or acetone at least four times over the course of several days to a week.
+- Supercritically dry. A suggested procedure would be to heat the CO2 through its critical point (31.1°C and 72.9 bars) to ~45°C while maintaining a pressure of ~100 bars. Depressurize at a rate of ~7 bar h-1.
+
+What You Should Get
+A transparent silica aerogel with a blue cast from Rayleigh scattering that appears yellowish when viewed in front of a light source from Mie scattering.
+
+Density 0.090 g cm-3
+Surface area 700 m2 g-1
+
+Useful Information
+
+Tetramethoxysilane (tetramethyl orthosilicate):
+- Molecular weight 152.22 g mol-1
+- Density 1.023 g mL-1
+- Smells a little bit like spearmint
+- Sigma-Aldrich part number 218472
+
+Methanol:
+- Molecular weight 32.04 g mol-1
+- Density 0.792 g mL-1
+- Sigma-Aldrich part number 322415
+
+Ammonium hydroxide:
+- Concentration is 28-30 wt % in water typically
+- Molecular weight of NH4OH is 35.05 g mol-1, but this is not the molecular weight of the solution
+- Density 0.9 g mL-1
+- Form is a pungent liquid that smells like cleaning ammonia, use in a vent hood
+- Sigma-Aldrich part number 221228
